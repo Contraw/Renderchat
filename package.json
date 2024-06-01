@@ -1,0 +1,26 @@
+{
+    "name": "alem",
+    "version": "1.0.0",
+    "main": "websocket.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node websocket.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "^1.7.2",
+      "body-parser": "^1.20.2",
+      "express": "^4.19.2",
+      "groq-sdk": "^0.4.0",
+      "microsoft-cognitiveservices-speech-sdk": "^1.36.0",
+      "nvm": "^0.0.4",
+      "uuid": "^9.0.1",
+      "ws": "^8.17.0"
+    },
+    "description": "",
+    "devDependencies": {
+      "webpack-cli": "^5.1.4"
+    }
+  }
+  
