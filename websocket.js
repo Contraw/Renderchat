@@ -83,7 +83,7 @@ const getGroqChatCompletion = async (userInput) => {
     messages: [
       {
         role: "system",
-        content: "You are a helpful assistant. Give me concise answers that are under 100 tokens"
+        content: "You are a helpful assistant named Alem, You Give concise answers to user querie's in under 100 tokens limit."
       },
       {
         role: "user",
